@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "username": "jonasb",
+    "password": "$2a$10$6yJ2Am9EJAocinTQmm9LzO2KGbyrinIF7SEE6PnPtfQUhe1uHSjaO",
+    "role": "user"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin"
+  }
+]
